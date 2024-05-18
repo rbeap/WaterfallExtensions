@@ -1,4 +1,4 @@
-# *WaterfallExtensions 0.1*
+# *WaterfallExtensions*
 Waterfall configs for KWRocketry and extra plumes for Restock
 
 
