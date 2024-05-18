@@ -1,5 +1,5 @@
 # *WaterfallExtensions 0.1*
-Waterfall configs for KWRocketry and extra plumes for Restock!
+Waterfall configs for KWRocketry and extra plumes for Restock
 
 
 
